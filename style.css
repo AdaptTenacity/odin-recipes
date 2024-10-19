@@ -1,0 +1,35 @@
+* {
+    background-color: #efece6;
+    margin-left: 2rem;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+h1 {
+    font-size: 4rem;
+    color: #1C6EA4;
+    align-self: auto;
+    text-decoration: underline;
+    margin-left: 1rem;
+}
+
+h2 {
+    font-size: 3rem;
+    color: #0022CC;
+    margin-left: 2rem;
+
+}
+
+img {
+    display: flex;
+    align-self: center;
+    margin: 2rem;
+    justify-content: center;
+}
+
+p, li {
+    font-size: 1.7rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
